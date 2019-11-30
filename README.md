@@ -1,5 +1,5 @@
 # RR-Interval Framed ECG based Machine Learning Security (RRIFECGSec) Demo 
-### Time sliced ECG based authentication system by using the Machine Learning
+### The R-R Invterval Framed (RRIF) ECG based authentication system by using the Machine Learning
 
 
 ## Reference Citation
