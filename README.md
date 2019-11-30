@@ -3,11 +3,10 @@
 
 
 ## Reference Citation
-* **Kim, S.-K.** and et al., **An Enhanced Machine Learning-based Biometric Authentication System Using RR-Interval Framed Electrocardiograms**, *IEEE Access* (Accepted)
-<!--  **7** (2019), pp. 123069-123075. -->
+* **Kim, S.-K.** and et al. (2019), **An Enhanced Machine Learning-based Biometric Authentication System Using RR-Interval Framed Electrocardiograms**, *IEEE Access* **7** (Special Topic in *Deep Learning: Security and Forensics Research Advances and Challenges*), pp. 168669-168674.
 </br></br>
 
-<!-- ![-](https://ieeexplore.ieee.org/ielx7/6287639/8600701/8812730/graphical_abstract/access-gagraphic-2937357.jpg)
+![-](https://ieeexplore.ieee.org/ielx7/6287639/8600701/8907884/graphical_abstract/access-gagraphic-2954576.jpg)
 
 
 ## Required Matlab Toolbox
@@ -16,7 +15,8 @@
 ## Revision History
 ```
 2019.11.20: The Github is generated
+2019.11.30: Upload the source codes and ECG data
 
 ```
 
-#### Code uploaded by *Amang Kim* [v0.1 || 2019/11/20]
+#### Code uploaded by *Amang Kim* [v0.1 || 2019/11/30]
